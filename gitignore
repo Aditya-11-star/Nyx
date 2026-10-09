@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+config.json
+nyx_history.json
+nyx_profile.json
